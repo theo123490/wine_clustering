@@ -1,0 +1,1 @@
+A Data Exploratory and Clustering practice based on kaggle dataset [https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009)
